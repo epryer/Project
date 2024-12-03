@@ -36,4 +36,5 @@ end #Tyrian's code
 
 
 
+
 end#Exploding Dice
