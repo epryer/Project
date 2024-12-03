@@ -1,6 +1,6 @@
 module Exploding_Dice
 import Random
-export explode
+export explode, rolltrials
 
 """
 explode(mad::Int)
